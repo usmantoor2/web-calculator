@@ -1,0 +1,14 @@
+.web-dev-box {
+    border-image: space;
+    position: absolute
+    box-shadow: 1px; 2 px;
+    padding: 6px;
+    text-align: center;
+    box-sizing: border-box
+    width: 300px;
+    border: 20px;
+    border-radius: 30px;
+    margin 20;
+    border-style: solid;
+    border-color: blue;
+}
